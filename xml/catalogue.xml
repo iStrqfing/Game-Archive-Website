@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game>
+        <title>Call of Duty: Warzone</title>
+        <developer>Infinity Ward, Raven Software</developer>
+        <release_date>2020-03-10</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Modern military warfare</setting>
+        <long_description>
+            Call of Duty: Warzone is an exhilarating free-to-play battle royale and first-person shooter (FPS) game that immerses players in a modern military warfare environment. Set in the fictional city of Verdansk, you'll experience heart-pounding action as you and your squad parachute onto the expansive map. Gather weapons, equipment, and armor to outlast your rivals in epic combat. Be the last squad or player standing to achieve victory in this intense and visually stunning game.
+        </long_description>
+        <filepath>images/icons/img-call-of-duty-warzone.png</filepath>
+        <background_img>images/bg/cod-warzone-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Counter-Strike: Global Offensive (CS:GO)</title>
+        <developer>Valve</developer>
+        <release_date>2012-08-21</release_date>
+        <platforms>PC</platforms>
+        <setting>Counter-terrorism vs. terrorists</setting>
+        <long_description>
+            Counter-Strike: Global Offensive (CS:GO) is a classic, highly competitive FPS game that brings together terrorists and counter-terrorists in fast-paced, strategic gameplay. Engage in thrilling game modes like bomb defusal and hostage rescue. With a wide array of weapons and gear, you'll need to work with your team to outmaneuver your opponents and achieve victory. This game is renowned for its precise shooting mechanics and intense competition.
+        </long_description>
+        <filepath>images/icons/img-csgo.jpg</filepath>
+        <background_img>images/bg/csgo-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Battlefield 2042</title>
+        <developer>DICE</developer>
+        <release_date>2021-11-19</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Futuristic warfare</setting>
+        <long_description>
+            Battlefield 2042 takes players to a near-future world embroiled in global conflict. Engage in intense battles on vast, dynamic maps with cutting-edge weaponry and vehicles. With up to 128 players, the game offers epic, large-scale warfare, making it a playground for strategic thinking and combat creativity.
+        </long_description>
+        <filepath>images/icons/img-battlefield-2042.png</filepath>
+        <background_img>images/bg/battlefield-2042-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Halo Infinite</title>
+        <developer>343 Industries</developer>
+        <release_date>2021-12-08</release_date>
+        <platforms>PC, Xbox</platforms>
+        <setting>Sci-fi alien battles</setting>
+        <long_description>
+            Halo Infinite continues the iconic sci-fi series, offering players the chance to explore a visually stunning, open-world Halo ring. Engage in epic battles against alien forces as the Master Chief, with an array of new and classic weapons at your disposal. The game combines a gripping narrative with intense FPS action.
+        </long_description>
+        <filepath>images/icons/img-halo-infinite.png</filepath>
+        <background_img>images/bg/halo-infinite-bg.png</background_img>
+    </game>
+    <game>
+        <title>Rainbow Six Siege</title>
+        <developer>Ubisoft</developer>
+        <release_date>2015-12-01</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Counter-terrorism operations</setting>
+        <long_description>
+            Rainbow Six Siege is a tactical FPS game that pits teams of counter-terrorists against terrorists in intense, destructible environments. Use strategy, gadgets, and teamwork to breach and defend, creating a dynamic and strategic experience in each match.
+        </long_description>
+        <filepath>images/icons/img-rainbow-six-siege.png</filepath>
+        <background_img>images/bg/r6s-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Apex Legends</title>
+        <developer>Respawn Entertainment</developer>
+        <release_date>2019-02-05</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Battle Royale in a sci-fi world</setting>
+        <long_description>
+            Apex Legends is a popular battle royale game set in the Titanfall universe. Form a squad of unique "Legends," each with their own abilities, and fight to be the last squad standing. The game's sci-fi setting and character-driven gameplay offer a fresh take on the genre.
+        </long_description>
+        <filepath>images/icons/img-apex-legends.jpg</filepath>
+        <background_img>images/bg/apex-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Doom Eternal</title>
+        <developer>id Software</developer>
+        <release_date>2020-03-20</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Demon-infested Earth</setting>
+        <long_description>
+            Doom Eternal is a high-octane, demon-slaying FPS game. Armed with an impressive arsenal, you'll traverse hellish landscapes and battle terrifying creatures. The game offers non-stop action and challenging combat, making it a must-play for FPS enthusiasts.
+        </long_description>
+        <filepath>images/icons/img-doom-eternal.png</filepath>
+        <background_img>images/bg/doom-eternal-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Far Cry 6</title>
+        <developer>Ubisoft</developer>
+        <release_date>2021-10-07</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Open-world tropical warfare</setting>
+        <long_description>
+            Far Cry 6 transports players to the fictional Caribbean island of Yara, ruled by a ruthless dictator. Engage in guerrilla warfare using an array of weapons, vehicles, and allies. Explore the open world, complete missions, and ignite a revolution.
+        </long_description>
+        <filepath>images/icons/img-far-cry-6.png</filepath>
+        <background_img>images/bg/far-cry-6-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Destiny 2</title>
+        <developer>Bungie</developer>
+        <release_date>2017-09-06</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Sci-fi shared-world shooter</setting>
+        <long_description>
+            Destiny 2 is a shared-world, sci-fi FPS game that takes players on a journey across the solar system. Engage in cooperative and competitive multiplayer activities, and uncover the mysteries of the Traveler and the Last City. With a wide variety of weapons and powers, you'll become a Guardian and protect humanity from alien threats.
+        </long_description>
+        <filepath>images/icons/img-destiny-2.png</filepath>
+        <background_img>images/bg/destiny-2-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Titanfall 2</title>
+        <developer>Respawn Entertainment</developer>
+        <release_date>2016-10-28</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Mech battles in a futuristic world</setting>
+        <long_description>
+            Titanfall 2 combines fast-paced FPS action with mech combat. Pilot agile Titans and engage in exhilarating battles in a futuristic world. The game's single-player campaign and multiplayer modes offer a variety of experiences for players.
+        </long_description>
+        <filepath>images/icons/img-titan-fall-2.png</filepath>
+        <background_img>images/bg/titanfall2-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Metro Exodus</title>
+        <developer>4A Games</developer>
+        <release_date>2019-02-15</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Post-apocalyptic Russia</setting>
+        <long_description>
+            Metro Exodus takes players on a journey through the post-apocalyptic wastelands of Russia. Survive hostile environments, mutated creatures, and human adversaries. The game's narrative-driven experience and atmospheric world-building make it a standout in the FPS genre.
+        </long_description>
+        <filepath>images/icons/img-metro-exodus.png</filepath>
+        <background_img>images/bg/metro-exodus-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Overwatch</title>
+        <developer>Blizzard Entertainment</developer>
+        <release_date>2016-05-24</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Team-based hero shooter</setting>
+        <long_description>
+            Overwatch is a team-based hero shooter where players select from a diverse roster of heroes, each with unique abilities. Engage in objective-based gameplay and compete in fast-paced matches. The game's colorful characters and cooperative gameplay set it apart in the FPS genre.
+        </long_description>
+        <filepath>images/icons/img-overwatch.png</filepath>
+        <background_img>images/bg/overwatch-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Borderlands 3</title>
+        <developer>Gearbox Software</developer>
+        <release_date>2019-09-13</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Sci-fi looter shooter</setting>
+        <long_description>
+            Borderlands 3 is a sci-fi looter shooter with a zany sense of humor. Embark on a wild adventure as one of the Vault Hunters and explore the chaotic and unpredictable world of Pandora. Collect powerful weapons, customize your character, and battle fierce enemies.
+        </long_description>
+        <filepath>images/icons/img-borderlands-3.png</filepath>
+        <background_img>images/bg/borderlands-3-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Wolfenstein: The New Colossus</title>
+        <developer>MachineGames</developer>
+        <release_date>2017-10-27</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Alternate history Nazi-occupied America</setting>
+        <long_description>
+            Wolfenstein: The New Colossus is an alternate history FPS game where you take on the role of BJ Blazkowicz, leading the resistance against a Nazi-occupied America. Engage in intense combat, explore diverse environments, and uncover a gripping narrative.
+        </long_description>
+        <filepath>images/icons/img-wolfenstein-new-collosus.png</filepath>
+        <background_img>images/bg/wolfenstein-2-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Left 4 Dead 2</title>
+        <developer>Valve</developer>
+        <release_date>2009-11-17</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Zombie apocalypse survival</setting>
+        <long_description>
+            Left 4 Dead 2 is a cooperative FPS game that plunges players into a zombie apocalypse. Team up with friends to survive waves of infected creatures. The game offers a thrilling and frantic experience with various campaigns and game modes.
+        </long_description>
+        <filepath>images/icons/img-left-4-dead-2.png</filepath>
+        <background_img>images/bg/l4d2-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Valorant</title>
+        <developer>Riot Games</developer>
+        <release_date>2020-06-02</release_date>
+        <platforms>PC</platforms>
+        <setting>Tactical team-based shooter</setting>
+        <long_description>
+            Valorant is a tactical, team-based shooter that combines precise gunplay with unique agent abilities. Compete in strategic matches where teamwork and strategy are key. The game offers a fresh take on the FPS genre with its mix of gunplay and abilities.
+        </long_description>
+        <filepath>images/icons/img-valorant.png</filepath>
+        <background_img>images/bg/valorant-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Call of Duty: Black Ops Cold War</title>
+        <developer>Treyarch, Raven Software</developer>
+        <release_date>2020-11-13</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Cold War espionage and combat</setting>
+        <long_description>
+            Call of Duty: Black Ops Cold War takes players to the era of Cold War espionage and combat. Engage in a gripping single-player campaign, intense multiplayer battles, and a thrilling zombie mode. The game offers a mix of historical events and fictional storytelling.
+        </long_description>
+        <filepath>images/icons/img-call-of-duty-coldwar.png</filepath>
+        <background_img>images/bg/cod-cold-war-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>DOOM (2016)</title>
+        <developer>id Software</developer>
+        <release_date>2016-05-13</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Hellish demon-infested Mars</setting>
+        <long_description>
+            DOOM (2016) is a reboot of the classic DOOM franchise, immersing players in a relentless battle against demonic forces on the red planet. With a wide range of weapons and fast-paced combat, players face off against hordes of hellspawn, creating an exhilarating and action-packed experience.
+        </long_description>
+        <filepath>images/icons/img-doom-2016.png</filepath>
+        <background_img>images/bg/doom-2016-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Quake Champions</title>
+        <developer>id Software</developer>
+        <release_date>2017-08-22</release_date>
+        <platforms>PC</platforms>
+        <setting>Fast-paced arena shooter</setting>
+        <long_description>
+            Quake Champions is a fast-paced arena shooter that harks back to the classic Quake series. Engage in lightning-fast battles, utilizing an array of weapons and abilities. The game offers thrilling multiplayer action and competition.
+        </long_description>
+        <filepath>images/icons/img-quake-champions.png</filepath>
+        <background_img>images/bg/quake-bg.jpg</background_img>
+    </game>
+    <game>
+        <title>Tom Clancy's Ghost Recon Breakpoint</title>
+        <developer>Ubisoft</developer>
+        <release_date>2019-10-04</release_date>
+        <platforms>PC, PlayStation, Xbox</platforms>
+        <setting>Military survival in a fictional island</setting>
+        <long_description>
+            Tom Clancy's Ghost Recon Breakpoint is a military survival game that places players in the fictional island of Auroa. Engage in tactical battles against a group of rogue agents and uncover the island's secrets. The game offers a mix of military strategy and action.
+        </long_description>
+        <filepath>images/icons/img-ghost-recon.png</filepath>
+        <background_img>images/bg/ghost-recon-bg.jpg</background_img>
+    </game>
+</games>

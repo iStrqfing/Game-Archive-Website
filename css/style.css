@@ -1,0 +1,307 @@
+/*-------------------------------------------Universal Styling-------------------------------------------*/
+::selection {
+	background-color: #302E33;
+}
+
+body {
+  background-color: #0c0c0c;
+  color: #d0d0d0;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.container {
+  min-width: 85%;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+}
+
+.content {
+  vertical-align: middle;
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  padding: 100px 0;
+  text-align: center;
+}
+
+header {
+  background-color: #C9572A;
+}
+
+.heading-content {
+  text-align: left;
+  overflow-x: clip;
+  padding: 50px 0;
+  height: auto;
+}
+
+#logo-text {
+  margin: 0 0 0 100px;
+}
+
+#gun-logo {
+  height: 130px;
+  width: 1950px;
+}
+
+footer {
+  background-color: #C9572A;
+}
+
+footer h3 {
+  margin: 30px 0;
+}
+
+h1, h2, h3, h4 {
+  color: #f5f5f5;
+}
+
+h1 {
+  font: 900 4em roboto, sans-serif;
+}
+
+h2 {
+  font: bold 2.7em roboto, sans-serif;
+  margin-bottom: 16px;
+}
+
+h3 {
+  font: bold 2em roboto, sans-serif;
+  margin: 26px 0;
+}
+
+p {
+  font: 1em raleway, sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  font: 1em raleway, sans-serif;
+  font-style: italic;
+  color: #d0d0d0;
+  text-decoration: underline;
+  transition: ease-in-out 250ms;
+  text-underline-offset: 5px;
+}
+
+a:hover {
+  text-decoration-color: #C9572A;
+  color: #f5f5f5;
+}
+
+/*-------------------------------------------Intro Section-------------------------------------------*/
+#intro {
+  background: url(../images/bg/warBG.jpg) no-repeat 50% 50%;
+  background-size: cover !important;
+}
+
+.intro-inner {
+  background-color: rgba(12,12,12,0.5);
+}
+
+.intro-content {
+  background-color: rgba(12,12,12,0.5);
+  text-align: center;
+  padding: 60px 100px;
+  margin: 48px 0px;
+}
+
+/*-------------------------------------------Search Section-------------------------------------------*/
+
+#filter-form {
+  width: 45%;
+}
+
+.search-settings{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-settings p{
+  font: 1em raleway, sans-serif;
+  font-style: italic;
+  color: #d0d0d0;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.search-settings label{
+  font: 1em raleway, sans-serif;
+  font-style: italic;
+  color: #d0d0d0;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.search-settings select{
+  font: 1em raleway, sans-serif;
+  font-style: italic;
+  text-decoration: underline;
+  transition: ease-in-out 250ms;
+  text-underline-offset: 5px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.search-settings option{
+  color: #d0d0d0;
+  background-color: #101010;
+}
+
+.btn-styling{
+  font: 1em raleway, sans-serif;
+  font-style: italic;
+  color: #d0d0d0;
+  background-color: transparent;
+  border-color: transparent;
+  text-decoration: underline;
+  transition: ease-in-out 250ms;
+  text-underline-offset: 5px;
+  padding: 0;
+}
+
+#btn-search{
+  margin-left: 10px;
+  margin-right: 15px;
+}
+
+.btn-styling:hover{
+  text-decoration-color: #C9572A;
+  color: #f5f5f5;
+  cursor: pointer;
+}
+
+/*-------------------------------------------Games Section-------------------------------------------*/
+#game-header {
+  margin-bottom: 30px;
+}
+
+.game-row {
+  display: flex;
+}
+
+.game-card {
+  flex: 1 0 0%;
+  margin-bottom: 50px;
+}
+
+.game-icon-img {
+  width: 100%;
+  border-radius: 50%;
+  background-color: #d0d0d0;
+}
+
+.game-card h3 {
+  margin-top: 0px;
+}
+
+.card-icon-img-container {
+  width: 25%;
+}
+
+.card-content-container {
+  width: 70%;
+  margin-left: 5%;
+}
+
+.item-header {
+  font-weight: bold;
+}
+
+/*-------------------------------------------Universal Styling-------------------------------------------*/
+#game {
+  background-color: #101010;
+  width: 100%;
+}
+
+#game-header {
+  text-align: center;
+}
+
+.game-content {
+  text-align: left;
+}
+
+.game-content h5{
+  text-align: center;
+}
+
+.row {
+  flex-direction: row;
+  display: flex;
+  gap: 10px;
+}
+
+.col {
+  flex: 1 0 0%;
+}
+
+.text-end {
+  text-align: right;
+}
+
+/*-------------------------------------------Media Queries-----------------------------------------------*/
+
+  /* Extra small devices (phones, 600px and down) */
+  @media only screen and (max-width: 600px) {
+    body {
+      font-size: 10px;
+    }
+  
+    .content {
+      padding: 50px 0;
+    }
+
+    .intro-content {
+      padding: 60px 10px;
+    }
+
+    .row, .game-row {
+      flex-direction: column;
+    }
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+    body {
+      font-size: 10px;
+    }
+
+    .row, .game-row {
+      flex-direction: row;
+    }
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+    body {
+      font-size: 12px;
+    }
+  }
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    body {
+      font-size: 14px;
+    }
+  }
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    body {
+      font-size: 16px;
+    }
+  }
+
+
+
+
